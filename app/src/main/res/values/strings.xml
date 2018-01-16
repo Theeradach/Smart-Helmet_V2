@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">layout_cardview</string>
+    <string name="name">Jack</string>
+    <string name="emergency_sms">EMERGENCY SMS</string>
+    <string name="EmergencyName">Name :</string>
+    <string name="EmergencyTel">Tel :</string>
+    <string name="telNumber">0992980430</string>
+    <string name="say_hello">Say "Hello"</string>
+    <string name="voice_command">VOICE COMMAND</string>
+    <string name="battery_notification">BATTERY NOTIFICATION</string>
+    <string name="instruction">INSTRUCTION</string>
+    <string name="about">ABOUT</string>
+    <string name="record_audio_is_required">We will only use the Record Audio Permission in order to use the Speech to Text Feature</string>
+    <string name="destroied">SpeeechRecognizer has been destroyed</string>
+    <string name="you_may_speak">You may speak now</string>
+    <string name="no_results_found">Could you speak again?</string>
+    <string name="infomation">Instructions for voice command</string>
+</resources>
