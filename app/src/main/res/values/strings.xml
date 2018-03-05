@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">layout_cardview</string>
+    <string name="app_name">SMART HELMET</string>
     <string name="name">Jack</string>
     <string name="emergency_sms">EMERGENCY SMS</string>
     <string name="EmergencyName">Name :</string>
@@ -15,4 +15,7 @@
     <string name="you_may_speak">You may speak now</string>
     <string name="no_results_found">Could you speak again?</string>
     <string name="infomation">Instructions for voice command</string>
+    <string name="title_activity_tutorial_view">tutorialView</string>
+    <string name="aboutContent">Smart Helmet Application V.0.0.1</string>
+    <string name="aboutMaker">Created By \n นายธีรเดช  ทรัพย์สิน\n นายจิรายุ  ชื่นชม</string>
 </resources>

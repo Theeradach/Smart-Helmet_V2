@@ -38,6 +38,7 @@ public class PermissionHandler {
                         else
                         {
                             ActivityCompat.requestPermissions(activity, new String[]{Manifest.permission.RECORD_AUDIO}, RECORD_AUDIO);
+
                         }
                     }
                     break;
